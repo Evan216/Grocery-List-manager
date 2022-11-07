@@ -1,0 +1,38 @@
+.class1{
+    text-decoration-line:line-through;
+    
+}
+
+
+
+.btnClass{
+line-height: 0%;
+}
+
+p{
+    line-height: 5%;
+    
+}
+#heading1{
+    line-height: 0%;
+}
+
+#btn1{
+    line-height: 0%;
+    
+}
+
+#grocery{
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 150px;
+    line-height: 100px;
+
+}
+.heading2{
+    position: absolute;
+    right: 10px;
+    top: 150px;
+}
+
